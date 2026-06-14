@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910336516046",
+    "project_id": "dao-culture-app",
+    "storage_bucket": "dao-culture-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910336516046:android:c7cf84dc1f189ade5a559f",
+        "android_client_info": {
+          "package_name": "com.example.dao_culture_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3YEERFhcdsOR3EPKp8SniJWw3wM8zQug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
